@@ -4,4 +4,4 @@ This project is about a function, which can read from a file descriptor and retu
 
 The project had some restrictions on the number of functions and files allowed in total. 
 
-This taught me to write efficient functions and use of resources I already have (like the [#LIBFT](https://github.com/emmameinert/Hiveproject_libft).
+This taught me to write efficient functions and use of resources I already have (like the [#LIBFT](https://github.com/emmameinert/Hiveproject_libft)).
